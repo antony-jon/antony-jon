@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning advanced java application
 - 💞️ I’m looking to collaborate on automation & embedded related projects (lang: python,c,java script,html,css)
-- 📫 How to reach me insta/discord
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me insta/discord (link in profile)
+- 😄 Pronouns: he
+- ⚡ Fun fact: even i can code 
 
 <!---
 antony-jon/antony-jon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
